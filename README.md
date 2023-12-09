@@ -2,8 +2,7 @@
 Atividade PYTHON UNIS * IMC + SQL LITE 
 
 
-import sqlite3
-
+#import sqlite3
 # Conectar ao banco de dados SQLite
 # Criar uma tabela / armazenar os dados
 # Inserir dados na tabela
